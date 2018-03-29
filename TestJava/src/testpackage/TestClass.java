@@ -1,5 +1,5 @@
 package testpackage;
-/*gugus*/
+/*gugusneues repository*/
 public class TestClass {
 
 	public static void main(String[] args) {
